@@ -1,4 +1,4 @@
-# Мастер-класс "Блокчейн Биткоина"
+# Мастер-класс «Блокчейн Биткоина»
 
 Слайды (теория): https://github.com/Har01d/workshop-hse-20161018/raw/master/Cryptocurrency-Workshop-HSE-Fall16.pdf
 
@@ -24,4 +24,8 @@
 
 ## Контакты
 
-<nikzh@nikzh.com>
+E-mail: <nikzh@nikzh.com>
+
+Telegram: @Har01d
+
+Web: https://blockchair.com/
